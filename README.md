@@ -51,3 +51,16 @@ In case of a invalid or non working snippet, feel free to submit an report for t
 - Submit the issue
 
 We will review the report and try to fix it asap.
+
+
+### Contribution by Donating
+There is another way you can contribute to us, by Buying us a Coffee or donating a little maintenance  amount as per your comfort.
+
+This is not some profitable donation, we are simple 2 devs running this website to help our community. 
+
+If you want to help , please donate us with Buy me a Coffee button below. We will display you as our `Main Contributor and Maintainer`
+
+[Click here to donate !](https://www.buymeacoffee.com/snippetsauce)
+
+
+***With Love Snippet Sauce*** 
