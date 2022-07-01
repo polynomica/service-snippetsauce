@@ -5,7 +5,8 @@ Hi, welcome to Snippet sauce contribution guide, this will help you to properly 
 
 ## 💻 Types of Contributions
 
-### 👨‍💻 Snippet Submission 👩‍💻
+### 👨‍💻 Snippet Submission 👩‍💻    
+
 Create an issue with all the given details and we will upload your snippet 
 on our webapp with proper credits. 
 
@@ -25,9 +26,10 @@ on our webapp with proper credits.
 - And submit it.
 
 Then we will review the submission and upload it if it passes the review. In case of review failure we will comment on the issue with a problem statement. Feel free to edit and re-submit the snippet. 
-
+____
 
 ### 🐞 Reporting a Bug
+
 Contribute by user testing the site and report any issue you encounter in our web-app.
 
 ***➡️ Steps to report a Bug or an Issue -***
@@ -38,6 +40,7 @@ Contribute by user testing the site and report any issue you encounter in our we
 
 We will look into the issue and try to fix it asap.
 
+___
 ### 📇 Reporting a Snippet
 In case of a invalid or non working snippet, feel free to submit an report for that snippet.
 
@@ -52,7 +55,7 @@ In case of a invalid or non working snippet, feel free to submit an report for t
 
 We will review the report and try to fix it asap.
 
-
+____
 
 
 ### ✨ Contribution by Donating ✨
